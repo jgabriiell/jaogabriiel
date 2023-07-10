@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou estudando programação com o objetivo de me tornar full-stack. <br>Também sou um estudante da língua inglesa e trabalho na  área de TI em uma empresa de turismo.
+Java, English and French student.
 
 
 ## 🌐 Socials:
