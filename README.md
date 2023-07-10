@@ -1,6 +1,5 @@
 # 💫 About Me:
-Atualmente estou estudando programação com o objetivo de me tornar full-stack. <br>Também sou um estudante da língua inglesa e trabalho na  área de TI em uma empresa de turismo.
-
+Hey i am student of Java, English and French.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#4642) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/João Gabriel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jgabriiell03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/João Gabriel) 
