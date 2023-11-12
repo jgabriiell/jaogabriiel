@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm João Gabriel, i'm 20 years. I am student of programming, English and French. In my free time i like watching movies and series, reading books and going out with my friends. I hope you enjoy my profile.
+Hi there! I'm João Gabriel, i'm 20 years. I am a programming student, English and French. In my free time i like watching movies and series, reading books and going out with my friends. I hope you enjoy my profile.
 
 
 ## 🌐 Socials:
