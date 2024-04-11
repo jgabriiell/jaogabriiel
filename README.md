@@ -17,34 +17,3 @@ Hi there! I'm João Gabriel, i'm 21 years. I am a programming student, English a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jaogabriiel&icon=2&color=1)](https://visitcount.itsvg.in)
-Nome : Gerar Dados
-
-em :
-  cronograma : # executar a cada 12 horas
-    - cron : " * */12 * * * "
-  workflow_dispatch :
-
-trabalhos :
-  construir :
-    nome : Jobs para atualizar dados
-    run-on : ubuntu-latest
-    passos :
-      # Animação de Cobra
-      - usa : Platane/snk@master
-        id : cobra-gif
-        com :
-          github_user_name : jaogabriiel
-          svg_out_path : dist/github-contribution-grid-snake.svg
-
-      - usa : crazy-max/ghaction-github-pages@v2.1.3
-        com :
-          target_branch : saída
-          build_dir : dist
-        ambiente :
-          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }
